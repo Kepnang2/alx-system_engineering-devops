@@ -1,3 +1,3 @@
 #0x00 shell basics
-#Task 1
-Creating a script that Displays the contents list of your current directory.
+#Task 2.
+The script that changes the working directory to the user’s home directory.

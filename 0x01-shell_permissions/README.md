@@ -1,3 +1,3 @@
 #ALX SYSTEMS ENGINEERING AND Devops
-#Task 9
-a script that sets the mode of the file hello to this:
+#Task 11
+execute permission to all subdirectories of the current directory for the owner

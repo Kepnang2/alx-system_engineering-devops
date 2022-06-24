@@ -1,3 +1,3 @@
 #0x00 shell basics
-#Task 8.
-The file betty is in /tmp/my first directory.
+#Task 9.
+Delete the directory my first directory that is in the /tmp directory.

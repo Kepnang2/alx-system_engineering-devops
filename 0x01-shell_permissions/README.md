@@ -1,3 +1,3 @@
 #ALX SYSTEMS ENGINEERING AND Devops
-#TASK 6
-Multiple permissions
+#TASK 7
+Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello.

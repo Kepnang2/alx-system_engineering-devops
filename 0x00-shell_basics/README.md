@@ -1,3 +1,3 @@
 #0x00 shell basics
-#Task 11.
-script that lists all files.
+#Task 12.
+ script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.

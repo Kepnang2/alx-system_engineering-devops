@@ -1,3 +1,3 @@
 #0x00 shell basics
-#Task 10.
-The script that changes the working directory to the previous one.
+#Task 11.
+script that lists all files.

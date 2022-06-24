@@ -1,3 +1,3 @@
 #ALX SYSTEMS ENGINEERING AND Devops
-#Task 12
-Create a script that creates a directory called mydir with permissions 751 in the working directory.
+#Task 13.
+Write a script that changes the group owner to school for the file hello

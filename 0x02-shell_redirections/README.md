@@ -1,3 +1,7 @@
 #Systems Engineering and Devops
-#Task 11.
-Write a script that counts the number of directories and sub-directories in the current directory.
+#Task 12.
+Create a script that displays the 10 newest files in the current directory.
+Requirements:
+
+One file per line
+Sorted from the newest to the oldest

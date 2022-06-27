@@ -1,3 +1,3 @@
-# Systems engineering and devops.
-# TASK 8.
-Write a script that writes into the file lscwdcontent the result of the command ls -la. If the file lscwdcontent already exists, it should be overwritten. If the file lscwdcontent does not exist, create it.
+#Systems Engineering and Devops
+#Task 10.
+Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.

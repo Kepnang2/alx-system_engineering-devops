@@ -1,3 +1,3 @@
 #Systems Engineering and Devops
-#Task 15.
-Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+#Task 16.
+Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.

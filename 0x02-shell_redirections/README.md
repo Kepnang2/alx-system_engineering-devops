@@ -1,3 +1,3 @@
 #Systems Engineering and Devops
-#Task 13.
-Being unique is better than being perfect
+#Task 23
+Write a command that finds all empty files and directories in the current directory and all sub-directories.

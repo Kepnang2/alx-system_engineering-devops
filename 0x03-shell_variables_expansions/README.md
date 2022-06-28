@@ -1,3 +1,5 @@
 # Systems Engineering and Devops
-# TASK 5.
-Create a script that lists all local variables and environment variables, and functions.
+# TASK 6.
+Create a script that creates a new local variable.
+Name: BEST
+Value: School
